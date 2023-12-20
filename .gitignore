@@ -1,0 +1,6 @@
+# Editor stuff
+.idea
+
+# Rust stuff
+target/
+Cargo.lock
